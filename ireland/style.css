@@ -24,4 +24,5 @@ width:900px;
 .stripe{
     width: 300px;
     height: 100%;
+    float:left;
 }
